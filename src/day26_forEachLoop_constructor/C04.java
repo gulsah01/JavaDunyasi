@@ -9,6 +9,6 @@ public class C04 {
     String ogrenciIsmi;
     int hiz;
     public void method1(){
-        System.out.println("method1 mi haydi ama?");
+        System.out.println("method1 mi haydi ama :)?");
     }
 }
