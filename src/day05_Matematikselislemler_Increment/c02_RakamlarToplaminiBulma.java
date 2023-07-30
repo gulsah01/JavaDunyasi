@@ -31,7 +31,7 @@ public class c02_RakamlarToplaminiBulma {
         rakamlarToplami = rakamlarToplami + birlerBasamagi;
         girilenSayi = girilenSayi /10;
 
-        System.out.println("Rakamlar toplami : "+ rakamlarToplami);
+        System.out.println("Rakamlar toplami: "+ rakamlarToplami);
 
 
 
