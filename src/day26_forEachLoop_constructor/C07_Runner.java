@@ -3,7 +3,7 @@ package day26_forEachLoop_constructor;
 public class C07_Runner {
     public static void main(String[] args) {
         C04 obj;
-        // deklarasyon vardir ama etekemige burunmus
+        // deklarasyon vardir ama ete kemige burunmus
         // bor obje yoktur
         new C04();
         // obje olusturduk ama sonraki satirda kullanamayiz
