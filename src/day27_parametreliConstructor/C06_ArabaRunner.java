@@ -10,6 +10,8 @@ public class C06_ArabaRunner {
         System.out.println(araba2);
         //Araba bilgileri ==> marka:'Nissan', model:'Micra',
         //                  yil:2005, fiyat:0, renk:'Renk belirtilmemis'
+         C05_Araba araba3 =new C05_Araba("Jaguar",2023,1100);
+        System.out.println(araba3);
 
     }
 }
