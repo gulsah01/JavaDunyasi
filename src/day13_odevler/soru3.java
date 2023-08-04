@@ -13,6 +13,7 @@ public class soru3 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Lütfen bir metin giriniz :");
         String metin = scanner.nextLine();
+
         metin=  metin.replaceAll("\\d","");
         metin=  metin.replaceAll(" ","_");
         metin=  metin.replaceAll("\\W","");
