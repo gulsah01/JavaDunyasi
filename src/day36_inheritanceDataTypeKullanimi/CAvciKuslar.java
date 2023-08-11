@@ -1,6 +1,6 @@
 package day36_inheritanceDataTypeKullanimi;
 
-public class CAvciKuslar {
+public class CAvciKuslar extends BKuslar{
     String hareket= "ucarlar";
     String beslenme= "et yerler";
     String pence= "pencelidir";
