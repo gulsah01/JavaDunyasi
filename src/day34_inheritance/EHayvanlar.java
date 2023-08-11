@@ -1,7 +1,7 @@
 package day34_inheritance;
 
 public class EHayvanlar {
-    public void hareket(){
+    protected void hareket(){
         System.out.println("hareket ederler");
     }
     public void solunum(){

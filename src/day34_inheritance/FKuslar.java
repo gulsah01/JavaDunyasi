@@ -1,6 +1,6 @@
 package day34_inheritance;
 
-public class FKuslar {
+public class FKuslar extends EHayvanlar {
     public void kanat(){
         System.out.println("kanatlidirlar");
     }
