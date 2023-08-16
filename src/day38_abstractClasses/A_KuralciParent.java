@@ -33,4 +33,4 @@ public abstract class A_KuralciParent {
     mecburen uyarlanmasini istemedigimiz , karari child classa biraktigimiz methodlari
     bu gune kadar yaptigimiz sekilde birakiyoruz.
      */
-}
+}}
