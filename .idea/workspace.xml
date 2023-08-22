@@ -49,7 +49,7 @@
       <recent name="day35_inheritance" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C01_CheckedExceptions">
+  <component name="RunManager" selected="Application.C02_MultipleExceptions">
     <configuration name="BChild" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day37_overridin_polimorphism.BChild" />
       <module name="Java_Team120" />
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_TryCatchdekiE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day40_interfaces.C05_TryCatchdekiE" />
+    <configuration name="C02_MultipleExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_exceptions.C02_MultipleExceptions" />
       <module name="Java_Team120" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day40_interfaces.*" />
+          <option name="PATTERN" value="day41_exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FDoktor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day35_inheritance.FDoktor" />
+    <configuration name="C05_TryCatchdekiE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day40_interfaces.C05_TryCatchdekiE" />
       <module name="Java_Team120" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day35_inheritance.*" />
+          <option name="PATTERN" value="day40_interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C02_MultipleExceptions" />
         <item itemvalue="Application.C01_CheckedExceptions" />
         <item itemvalue="Application.C05_TryCatchdekiE" />
         <item itemvalue="Application.c02_RakamlarToplaminiBulma" />
         <item itemvalue="Application.BChild" />
-        <item itemvalue="Application.FDoktor" />
       </list>
     </recent_temporary>
   </component>
