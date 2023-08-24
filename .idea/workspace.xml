@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0dabaa4e-1ad2-46f0-8443-c2ef2503eeea" name="Changes" comment="My commit message">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day41_exceptions/C05_ThrowKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day41_exceptions/C05_ThrowKeyword.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,20 +48,7 @@
       <recent name="day35_inheritance" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C01_Iterator">
-    <configuration name="C01_CheckedExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_exceptions.C01_CheckedExceptions" />
-      <module name="Java_Team120" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day41_exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.C03_ArraydenTekrarEdenleriSil">
     <configuration name="C01_Iterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day42_iterator.C01_Iterator" />
       <module name="Java_Team120" />
@@ -76,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_MultipleExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_exceptions.C02_MultipleExceptions" />
+    <configuration name="C01_LinkedList_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day43_collections.C01_LinkedList_List" />
       <module name="Java_Team120" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day41_exceptions.*" />
+          <option name="PATTERN" value="day43_collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_TryCatchdekiE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day40_interfaces.C05_TryCatchdekiE" />
+    <configuration name="C01_staticBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29_passByValue.C01_staticBlocks" />
       <module name="Java_Team120" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day40_interfaces.*" />
+          <option name="PATTERN" value="day29_passByValue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +88,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="c02_RakamlarToplaminiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05_Matematikselislemler_Increment.c02_RakamlarToplaminiBulma" />
+    <configuration name="C03_ArraydenTekrarEdenleriSil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day43_collections.C03_ArraydenTekrarEdenleriSil" />
       <module name="Java_Team120" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05_Matematikselislemler_Increment.*" />
+          <option name="PATTERN" value="day43_collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ornek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_immutableClasses.ornek" />
+      <module name="Java_Team120" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day30_immutableClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C03_ArraydenTekrarEdenleriSil" />
+        <item itemvalue="Application.C01_LinkedList_List" />
+        <item itemvalue="Application.ornek" />
+        <item itemvalue="Application.C01_staticBlocks" />
         <item itemvalue="Application.C01_Iterator" />
-        <item itemvalue="Application.C02_MultipleExceptions" />
-        <item itemvalue="Application.C01_CheckedExceptions" />
-        <item itemvalue="Application.C05_TryCatchdekiE" />
-        <item itemvalue="Application.c02_RakamlarToplaminiBulma" />
       </list>
     </recent_temporary>
   </component>
