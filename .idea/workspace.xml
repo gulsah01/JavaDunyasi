@@ -49,13 +49,13 @@
       <recent name="day35_inheritance" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C02_MultipleExceptions">
-    <configuration name="BChild" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day37_overridin_polimorphism.BChild" />
+  <component name="RunManager" selected="Application.C01_Iterator">
+    <configuration name="C01_CheckedExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_exceptions.C01_CheckedExceptions" />
       <module name="Java_Team120" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day37_overridin_polimorphism.*" />
+          <option name="PATTERN" value="day41_exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_CheckedExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_exceptions.C01_CheckedExceptions" />
+    <configuration name="C01_Iterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day42_iterator.C01_Iterator" />
       <module name="Java_Team120" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day41_exceptions.*" />
+          <option name="PATTERN" value="day42_iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C01_Iterator" />
         <item itemvalue="Application.C02_MultipleExceptions" />
         <item itemvalue="Application.C01_CheckedExceptions" />
         <item itemvalue="Application.C05_TryCatchdekiE" />
         <item itemvalue="Application.c02_RakamlarToplaminiBulma" />
-        <item itemvalue="Application.BChild" />
       </list>
     </recent_temporary>
   </component>
