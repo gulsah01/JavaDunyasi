@@ -1,6 +1,6 @@
 package day32_stringBuilder_accessModifier;
 
-public class C01_StringBuilderOlusturma {
+public class  C01_StringBuilderOlusturma {
     public static void main(String[] args) {
         StringBuilder sb1 =new StringBuilder();
         // bos bir sb olusturur
