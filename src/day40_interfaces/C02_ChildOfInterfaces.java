@@ -5,6 +5,7 @@ import day39_interfaces.I02_interfaces;
 public class C02_ChildOfInterfaces implements I01_interfaces, I02_interfaces{
     @Override
     public void method1() {
+
     }
     @Override
     public int method2() {
