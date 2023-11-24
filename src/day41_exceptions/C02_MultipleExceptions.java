@@ -29,6 +29,7 @@ public class C02_MultipleExceptions {
         } catch (ArrayIndexOutOfBoundsException e) {
             System.out.println("Girilen index array'in sinirlari disinda");
         }
+
          */
         /* 2- bir try birden fazla catch yazabiliriz
         try{
